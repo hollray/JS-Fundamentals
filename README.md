@@ -1,0 +1,1 @@
+This is a Javascript class and i have here samples from ALX
